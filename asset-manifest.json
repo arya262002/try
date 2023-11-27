@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/try/static/css/main.085c893f.css",
+    "main.js": "/try/static/js/main.26226119.js",
+    "static/js/787.0dc1bfd1.chunk.js": "/try/static/js/787.0dc1bfd1.chunk.js",
+    "index.html": "/try/index.html",
+    "static/media/Tuning.svg": "/try/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/Down.svg": "/try/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.085c893f.css.map": "/try/static/css/main.085c893f.css.map",
+    "main.26226119.js.map": "/try/static/js/main.26226119.js.map",
+    "787.0dc1bfd1.chunk.js.map": "/try/static/js/787.0dc1bfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085c893f.css",
+    "static/js/main.26226119.js"
+  ]
+}
